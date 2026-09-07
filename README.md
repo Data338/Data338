@@ -1,11 +1,11 @@
 # 👋 Andrei Tenorio — @Data338
 
-Construo **devtools e automação de browser**: capturo o que os sites realmente fazem na rede e transformo isso em ferramenta.
+I build **devtools and browser automation**: capturing what websites actually do on the wire and turning it into tooling.
 
-## 🔥 Destaques
+## 🔥 Featured
 
-- **[cdp-sniffer](https://github.com/Data338/cdp-sniffer)** — captura todo o tráfego Chrome DevTools Protocol em SQLite. CLI + 17 ferramentas MCP pra engenharia reversa de APIs web.
-- **[N1-TOOLKIT-IA.MD](https://github.com/Data338/N1-TOOLKIT-IA.MD)** — extensão Chrome com IA (OpenAI/Groq via Cloudflare Worker) pra operação de suporte N1: triagem, respostas e formalização de chamados.
+- **[cdp-sniffer](https://github.com/Data338/cdp-sniffer)** — captures all Chrome DevTools Protocol traffic into SQLite. CLI + 17 MCP tools for reverse-engineering web API flows.
+- **[N1-TOOLKIT-IA.MD](https://github.com/Data338/N1-TOOLKIT-IA.MD)** — Chrome extension with AI (OpenAI/Groq via Cloudflare Worker) for Tier-1 support ops: triage, replies, ticket write-ups.
 
 ## 🛠️ Stack
 
@@ -17,3 +17,7 @@ Construo **devtools e automação de browser**: capturo o que os sites realmente
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
 `Chrome DevTools Protocol` · `MCP` · `Browser automation` · `Reverse engineering` · `SQLite`
+
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Data338&show_icons=true&theme=dark)
