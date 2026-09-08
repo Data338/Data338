@@ -2,6 +2,12 @@
 
 I build **web automation tooling and the AI agents that run on it**: capturing what websites actually do on the wire, then putting agents to work on top.
 
+## 🏆 Highlights
+
+- **Champion — InovaCoop 2026** (Sescoop/AL innovation challenge)
+- **Data team @ Unimed** — promoted straight from Tier-1 support to data in 6 months
+- 🎓 Undergraduate student (4th semester)
+
 ## 🔥 Featured
 
 - **[cdp-sniffer](https://github.com/Data338/cdp-sniffer)** — captures all Chrome DevTools Protocol traffic into SQLite. CLI + 17 MCP tools for reverse-engineering web API flows.
