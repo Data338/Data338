@@ -5,7 +5,8 @@ I build **devtools and browser automation**: capturing what websites actually do
 ## 🔥 Featured
 
 - **[cdp-sniffer](https://github.com/Data338/cdp-sniffer)** — captures all Chrome DevTools Protocol traffic into SQLite. CLI + 17 MCP tools for reverse-engineering web API flows.
-- **[N1-TOOLKIT-IA.MD](https://github.com/Data338/N1-TOOLKIT-IA.MD)** — Chrome extension with AI (OpenAI/Groq via Cloudflare Worker) for Tier-1 support ops: triage, replies, ticket write-ups.
+- **[hermes-attendant-stack](https://github.com/Data338/hermes-attendant-stack)** — WhatsApp service-attendant stack: container, gateway patches, persona templates.
+- **[whatsapp-agent-control-plane](https://github.com/Data338/whatsapp-agent-control-plane)** — control one agent from another through the filesystem: restart-flag porter, cron delivery, read-only SQLite recipes.
 
 ## 🛠️ Stack
 
