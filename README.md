@@ -1,6 +1,6 @@
 # 👋 Andrei Tenorio — @Data338
 
-I build **devtools, browser automation, and WhatsApp agents**: capturing what websites actually do on the wire and turning it into tooling — then putting agents to work on top of it.
+I build **web automation tooling and the AI agents that run on it**: capturing what websites actually do on the wire, then putting agents to work on top.
 
 ## 🔥 Featured
 
