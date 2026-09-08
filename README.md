@@ -4,8 +4,10 @@ I build **web automation tooling and the AI agents that run on it**: capturing w
 
 ## 🏆 Highlights
 
+- **Founder @ Metriall** — insurance brokerage + technology
 - **Champion — InovaCoop 2026** (Sescoop/AL innovation challenge)
-- **Data team @ Unimed** — promoted straight from Tier-1 support to data in 6 months
+- **Data team @ Unimed (via Macrocoop)** — promoted straight from Tier-1 support to data in 6 months
+- 🤝 Cooperado @ Macrocoop
 - 🎓 Undergraduate student (4th semester)
 
 ## 🔥 Featured
