@@ -13,6 +13,7 @@ I build **web automation tooling and the AI agents that run on it**: capturing w
 ## 🔥 Featured
 
 - **[cdp-sniffer](https://github.com/Data338/cdp-sniffer)** — captures all Chrome DevTools Protocol traffic into SQLite. CLI + 17 MCP tools for reverse-engineering web API flows.
+- **[vostok](https://github.com/Data338/vostok)** — Soviet-grade neon theme (Neovim + OpenCode) + TUI patch with an RSVP thought player: streaming reasoning rendered word-by-word with ORP pivot.
 - **[hermes-attendant-stack](https://github.com/Data338/hermes-attendant-stack)** — WhatsApp service-attendant stack: container, gateway patches, persona templates.
 - **[whatsapp-agent-control-plane](https://github.com/Data338/whatsapp-agent-control-plane)** — control one agent from another through the filesystem: restart-flag porter, cron delivery, read-only SQLite recipes.
 
